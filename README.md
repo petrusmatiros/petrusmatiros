@@ -16,6 +16,6 @@ Here are some ideas to get you started:
  
  [![Petrus GitHub Stats](https://github-readme-stats.vercel.app/api?username=petrusmatiros&show_icons=true&bg_color=fe665b&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&hide_border=true&custom_title=My%20%Stats&border_radius=18)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=petrusmatiros&repo=petrusmatiros)](https://github.com/petrusmatiros/petrusmatiros)
-
+-->
