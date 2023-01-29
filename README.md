@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
  -->
  
- [![Petrus GitHub Stats](https://github-readme-stats.vercel.app/api?username=petrusmatiros&show_icons=true&bg_color=fe665b&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&hide_border=true&custom_title=My%20%Stats&border_radius=18)](https://github.com/petrusmatiros/petrusmatiros)
+ [![Petrus GitHub Stats](https://github-readme-stats.vercel.app/api?username=petrusmatiros&show_icons=true&bg_color=d2fbd0&title_color=0d5f07&text_color=0d5f07&icon_color=0d5f07F&hide_border=true&custom_title=My%20%Stats&border_radius=18)](https://github.com/petrusmatiros/petrusmatiros)
 
 <!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=petrusmatiros&repo=petrusmatiros)](https://github.com/petrusmatiros/petrusmatiros)
