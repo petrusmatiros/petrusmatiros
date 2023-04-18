@@ -3,9 +3,12 @@
 I'm Petrus, a young full stack developer looking for the next awesome thing to work on. 
 
 <h2>Facts to know about me</h2>
-* Deep and sophisticated understanding of design, UX and UI. 
+
+* Deep and sophisticated understanding of design, UX and UI
+
 * Experienced frontend developer
-* passion for creating seamless and wholistic experiences that have a high standard of <b>design, functionality, usabilty and user experience</b>.
+
+* Passion for creating seamless and wholistic experiences that have a high standard of <b>design, functionality, usabilty and user experience</b>.
 
 
 <h2>Skills</h2>
