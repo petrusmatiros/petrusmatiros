@@ -6,9 +6,12 @@ Using my skills, I always strive to create wholistic and seamless experiences th
 
 
  <h2>Skills</h2>
- <br>
  
 [![Skills](https://skillicons.dev/icons?i=ae,blender,cs,css,html,discord,bots,docker,express,firebase,figma,github,ai,java,js,md,nodejs,ps,postgres,pr,py,react,vue,replit,tailwind,ts,vscode)](https://skillicons.dev)
+
+<br>
+
+<h2>Github stats</h2>
 
  [![Petrus GitHub Stats](https://github-readme-stats.vercel.app/api?username=petrusmatiros&show_icons=true&bg_color=d2fbd0&title_color=0d5f07&text_color=0d5f07&icon_color=0d5f07&hide_border=true&custom_title=My%20%Stats&border_radius=18)](https://github.com/petrusmatiros/petrusmatiros)
 
