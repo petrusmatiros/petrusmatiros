@@ -15,7 +15,7 @@ Using my skills, I always strive to create wholistic and seamless experiences th
  [![Petrus GitHub Stats](https://github-readme-stats.vercel.app/api?username=petrusmatiros&show_icons=true&bg_color=d2fbd0&title_color=0d5f07&text_color=0d5f07&icon_color=0d5f07&hide_border=true&custom_title=My%20%Stats&border_radius=18)](https://github.com/petrusmatiros/petrusmatiros)
 
 
-<h3>Where to find me</h3>
+<h2>Where to find me</h2>
 
 <p>
 <a href="https://github.com/petrusmatiros" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
