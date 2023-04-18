@@ -2,7 +2,7 @@
 
 #### I'm Petrus, a young full stack developer looking for the next awesome thing to work on. I have a deep and sophisticated understanding of design, UX and UI. This lets me excel in working in frontend development. 
 
-Using my skills, I always strive to create wholistic and seamless experiences that have a high standard of design, functionality, usabilty and user experience.
+Using my skills, I always strive to create wholistic and seamless experiences that have a high standard of <b>design, functionality, usabilty and user experience</b>.
 
 
 <h2>Skills</h2>
