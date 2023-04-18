@@ -1,4 +1,4 @@
- <h1>Hi there 👋<h1>
+ <h1>Hi there 👋</h1>
 
 #### I'm Petrus, a young full stack developer looking for the next awesome thing to work on. I have a deep and sophisticated understanding of design, UX and UI. This lets me excel in working in frontend development. 
 
