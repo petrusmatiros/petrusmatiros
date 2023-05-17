@@ -30,3 +30,5 @@ I'm Petrus, a young full stack developer looking for the next awesome thing to w
  <br>
 <a href="https://www.linkedin.com/in/petrusmatiros" target="_blank"> <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=petrusmatiros&repo=CodexMystica)](https://github.com/petrusmatiros/CodexMystica)
