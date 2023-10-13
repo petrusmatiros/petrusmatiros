@@ -6,7 +6,7 @@ I'm Petrus, a young full stack developer looking for the next awesome thing to w
 
 * Deep and sophisticated understanding of design, UX and UI
 
-* Experienced frontend developer
+* Experienced fullstack developer
 
 * Passion for creating seamless and wholistic experiences that have a high standard of <b>design, functionality, usabilty and user experience</b>.
 
