@@ -1,6 +1,6 @@
  <h1>Hi there 👋</h1>
 
-I'm Petrus, a young full stack developer looking for the next awesome thing to work on. 
+I'm Petrus, a young and skilled full stack developer looking for the next awesome thing to work on. 
 
 <h2>Facts to know about me</h2>
 
