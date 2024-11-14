@@ -1,14 +1,24 @@
  <h1>Hi there 👋</h1>
 
-I'm Petrus, a young and skilled full stack developer looking for the next awesome thing to work on. 
+I'm Petrus, a sharp and skilled full stack developer - looking for the next awesome thing to work on 
 
 <h2>Facts to know about me</h2>
 
-* Deep and sophisticated understanding of design, UX and UI
+* Love optimizing stuff - like everything
 
-* Experienced fullstack developer
+* I love engineering and automating workflows
 
 * Passion for creating seamless and wholistic experiences that have a high standard of <b>design, functionality, usabilty and user experience</b>.
+
+* Deep and sophisticated understanding of design, UX and UI
+
+<h3>Things I enjoy</h3>
+
+* DnD (I'm a fellow critter)
+
+* Game development
+
+* Cinematography and music
 
 
 <h2>Skills</h2>
