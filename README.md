@@ -1,4 +1,4 @@
- <h1>Hi there 👋</h1>
+<h1>Hi there 👋</h1>
 
 I'm Petrus, a sharp and skilled full stack developer - looking for the next awesome thing to work on 
 
@@ -14,11 +14,11 @@ I'm Petrus, a sharp and skilled full stack developer - looking for the next awes
 
 <h3>Things I enjoy</h3>
 
-* DnD (I'm a fellow critter)
+* DnD (I'm a fellow critter) 🎲🎭
 
-* Game development
+* Game development 🎮
 
-* Cinematography and music
+* Cinematography and music 🎶
 
 
 <h2>Skills</h2>
