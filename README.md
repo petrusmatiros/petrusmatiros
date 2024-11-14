@@ -4,13 +4,13 @@ I'm Petrus, a sharp and skilled full stack developer - looking for the next awes
 
 <h2>Facts to know about me</h2>
 
-* Love optimizing stuff - like everything
+* Love optimizing stuff - like <b>everything</b> ⚡️
 
-* I love engineering and automating workflows
+* I love engineering and automating workflows. I create my own CLI tools for fun ✨️
 
-* Passion for creating seamless and wholistic experiences that have a high standard of <b>design, functionality, usabilty and user experience</b>.
+* Passion for creating seamless and wholistic experiences that have a high standard of <b>design, functionality, usabilty and user experience</b> ⚙️
 
-* Deep and sophisticated understanding of design, UX and UI
+* Deep and sophisticated understanding of design, UX and UI 🧐
 
 <h3>Things I enjoy</h3>
 
