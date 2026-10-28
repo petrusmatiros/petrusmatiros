@@ -1,6 +1,6 @@
 <h1>Hi there 👋</h1>
 
-I'm Petrus, a sharp and skilled full stack developer - looking for the next awesome thing to work on
+I'm Petrus, a sharp and skilled full stack engineer (with extra focus on distributed systems and security) - looking for the next awesome thing to work on
 
 https://petrusmatiros.com/ 
 
