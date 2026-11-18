@@ -18,7 +18,7 @@ https://blog.petrusmatiros.com/
 
 * Passion for creating seamless and wholistic experiences that have a high standard of <b>design, functionality, usabilty and user experience</b> ⚙️
 
-* Deep and sophisticated understanding of design, UX and UI 🧐
+* Deep and sophisticated understanding of distributed systems, systems engineering and cybersecurity 🧐
 
 <h3>Things I enjoy</h3>
 
