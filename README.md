@@ -4,6 +4,12 @@ I'm Petrus, a sharp and skilled full stack engineer (with extra focus on distrib
 
 https://petrusmatiros.com/ 
 
+<h2>Blog</h2>
+
+I write about systems, programming and other interesting stuff.
+
+https://blog.petrusmatiros.com/
+
 <h2>Facts to know about me</h2>
 
 * Love optimizing stuff - like <b>everything</b> ⚡️
