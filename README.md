@@ -25,7 +25,7 @@ https://petrusmatiros.com/
 
 <h2>Skills</h2>
  
-[![Skills](https://skillicons.dev/icons?i=ae,blender,cs,css,html,discord,bots,docker,express,firebase,figma,github,ai,java,js,md,nodejs,ps,postgres,pr,py,react,vue,replit,tailwind,ts,vscode)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=aws,gcp,azure,kubernetes,docker,ansible,terraform,linux,bash,nginx,cloudflare,vercel,githubactions,git,elasticsearch,postgres,mysql,sqlite,firebase,go,nodejs,ts,js,py,java,cs,c,deno,bun,express,graphql,nextjs,react,vue,nuxtjs,vite,tailwind,html,css,wordpress,vscode,figma,ae,blender,discord,bots,ai,md,ps,pr,replit)](https://skillicons.dev)
 
 
 <h2>Github stats</h2>
